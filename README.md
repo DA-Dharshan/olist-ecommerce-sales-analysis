@@ -48,3 +48,14 @@ This project analyzes sales performance using the Olist Brazilian E-Commerce Dat
 ## Outcome
 
 An interactive dashboard was developed to support business decision-making through data-driven insights and performance monitoring.
+
+## Dashboard Preview
+
+The dashboard provides an interactive overview of sales performance, customer reviews, shipping costs, and regional trends using Excel Pivot Tables, Charts, and Slicers.
+
+## Author
+
+Darshan
+
+Aspiring Data Analyst | Excel | SQL | Power BI
+
